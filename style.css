@@ -1,9 +1,17 @@
-ul{
-    list-style-type: none;
+.c0{
     display: flex;
-    height: 50px;
+    justify-content: center;
 }
-li{
-    display: flex;
+.c1{
+    /* display: flex; */
+    background-color:wheat;
+    height: 100px;
+    width: 100px;
+}
+.c2{
+    /* display: flex; */
     
+    background-color: black;
+    height: 100px;
+    width: 100px;
 }
