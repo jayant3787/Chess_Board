@@ -3,14 +3,11 @@
     justify-content: center;
 }
 .c1{
-    /* display: flex; */
     background-color:wheat;
     height: 100px;
     width: 100px;
 }
 .c2{
-    /* display: flex; */
-    
     background-color: black;
     height: 100px;
     width: 100px;
